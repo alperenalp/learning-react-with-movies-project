@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "name": "Moon Knight",
+      "rating": "9.2",
+      "overview": "Moon Knight, Oscar Isaac’in canladırdığı Steven Grant isimli çoklu kişilik bozukluğundan müzdarip bir adamın hikayesini anlatıyor. Bushman adında bir terörist tarafından öldürülen eski CIA ajanı Marc Spector, Mısır Ay Tanrısı Konshu tarafından Grant’in bedeninde hayata döndürülmüştür. Kendi halinde bir adam olan Grant, Spector’ın eski düşmanları peşine düşmüşken hem Spector ile karmaşık kimlik bozukluğunu hem de eski Mısır Tanrıları arasındaki ölümcül bir sırrı çözmenin yolunu bulmak zorundadır.",
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/YksR65as1ppF2N48TJAh2PLamX.jpg",
+      "id": 8
+    },
+    {
+      "name": "Game Of Thrones",
+      "rating": "8.2",
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+      "overview": "Krallık dediğin savaşsız olur mu? En güçlü krallığı kurup, huzuru sağlamış olsan bile bu gücü elinde nasıl koruyacaksın? Burada yanlış yapana yer yok, affetmek yok. Kuzey Krallığının hükümdarı Lord Ned Stark, uzun ve zorlu savaşlardan sonra anayurduna dönüp krallığını bütünlük içerisinde tutmayı başarmıştır. Kral Robert Baratheon ile yıllarca omuz omuza çarpışan ve Baratheon'un kral olmasını sağlayan Ned Stark'ın tek istediği kuzey sınırlarını koruyan krallığında ailesiyle ve halkıyla yaşamaktır.",
+      "id": 9
+    },
+    {
+      "name": "She-Hulk: Attorney at Law",
+      "rating": "7.3",
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
+      "overview": "Jennifer Walters, kaza geçirene kadar sıradan bir hayat yaşayan bir avukattır. Onun iyileşmesi için kuzeni Bruce Banner'dan kan alınır. Bu nakil Jennifer’ın, Banner'ın ikinci kişiliği Hulk'un süper güçlerini, daha hafif bir biçimde almasına neden olur. Jennifer Walters, süper gücünü bir sonraki seviyeye taşımak için zekasını, özgüvenini ve özgüvenini kullanır.",
+      "id": 10
+    },
+    {
+      "name": "Yüzüklerin Efendisi: Güç Yüzükleri ",
+      "rating": "7.5",
+      "overview": "Orta Dünya tarihinin destanlara konu olan İkinci Çağ’ındaki efsanevi kahramanları ilk kez ekrana getirecek. J.R.R. Tolkien’ın The Hobbit ve The Lord of the Rings’inin binlerce yıl öncesinde geçen bu epik drama, izleyicileri büyük güçlerin ortaya çıktığı, krallıkların yükseldiği ve çöktüğü, sürpriz kahramanların sınandığı, umudun pamuk ipliğine bağlı olduğu ve tüm dünyayı karanlığa gömmekle tehdit ettiği bir döneme götürecek. Orta Dünya’nın büyük ölçüde barış içinde olduğu bir dönemde başlayan dizi, hem tanıdık hem de yeni yüzlerden oluşan bir grup karakterin uzun süredir dönmesinden korkulan bir kötülüğün yeniden yükselmesiyle yüzleşmesini anlatacak. Dumanlı Dağlar’ın karanlık derinliklerinden, elflerin başkenti Lindon’ın görkemli ormanlarına, göz alıcı ada krallığı Númenor’dan haritanın en uç köşelerine, bu krallıklar ve karakterler, Orta Dünya’dan ayrıldıktan çok sonra da anlatılmaya devam edecek efsanelerini şekillendirecekler.",
+      "imageUrl": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXJXQgSSyZ1MBZ6dk0zpVaUa24U.jpg",
+      "id": 11
+    }
+  ]
+}
